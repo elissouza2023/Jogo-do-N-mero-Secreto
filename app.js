@@ -13,8 +13,8 @@ function exibirTextoNatela(tag,texto){
 }
 
 function exibirMensagemInicial(){
-    exibirTextoNatela('h1','Jogo do Número Secreto');
-    exibirTextoNatela('p','Escolha um número entre 1 e 100');
+    exibirTextoNatela('h1','Quantas Moedas estão escondidas?');
+    exibirTextoNatela('p','Escolha um número entre 1 e 100 e ajude o Sonic.');
 }
 exibirMensagemInicial()
 
