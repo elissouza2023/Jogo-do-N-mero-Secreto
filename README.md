@@ -38,3 +38,24 @@ O **Jogo do Número Secreto** foi desenvolvido para exercitar a lógica de progr
 ├── app.js              # Lógica do jogo e controle de áudio/DOM
 └── README.md           # Documentação do repositório
 ```
+---
+## 🔧 Como Executar Localmente
+1. Clone o repositório:
+```text
+git clone [https://github.com/elissouza2023/Jogo-do-N-mero-Secreto.git](https://github.com/elissouza2023/Jogo-do-N-mero-Secreto.git)
+```
+2. Navegue até a pasta do projeto:
+```text
+cd Jogo-do-N-mero-Secreto
+```
+3. Abra a aplicação:
+
+Dê um duplo clique no arquivo index.html ou abra via extensão Live Server no VS Code.
+---
+
+## 👩‍💻 Autora
+Desenvolvido por Elisângela de Souza.
+
+GitHub: @elissouza2023
+
+LinkedIn: Elisângela de Souza
